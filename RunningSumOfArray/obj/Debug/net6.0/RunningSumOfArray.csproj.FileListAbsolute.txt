@@ -1,0 +1,15 @@
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/bin/Debug/net6.0/RunningSumOfArray
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/bin/Debug/net6.0/RunningSumOfArray.deps.json
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/bin/Debug/net6.0/RunningSumOfArray.runtimeconfig.json
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/bin/Debug/net6.0/RunningSumOfArray.dll
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/bin/Debug/net6.0/RunningSumOfArray.pdb
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.csproj.AssemblyReference.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.AssemblyInfoInputs.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.AssemblyInfo.cs
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.csproj.CoreCompileInputs.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.dll
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/refint/RunningSumOfArray.dll
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.pdb
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/RunningSumOfArray.genruntimeconfig.cache
+/home/masoud/Documents/Projects/LeetCode/LeetCode75/RunningSumOfArray/obj/Debug/net6.0/ref/RunningSumOfArray.dll
